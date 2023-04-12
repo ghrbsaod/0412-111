@@ -30,6 +30,7 @@ function Home() {
       </div>
     </Style.home>
   );
+  
 }
 
 export default Home;
