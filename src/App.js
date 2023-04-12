@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './components/Home';
-import TodoListPage from './components/TodoList';
+import TodoListPage from './components/ToDoList';
 import Made from "./components/Etc";
 import Memo from "./components/Memo";
 
@@ -22,6 +22,8 @@ function App() {
         </Routes>
       </BrowserRouter>
     </div>
-  );
+  );    
+
 }
+
 export default App;

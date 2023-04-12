@@ -23,6 +23,7 @@ let todoList = [
       name: "공부하기",
       isDone: true,
     },
+    
   ];
   
   function getAllTodoList() {

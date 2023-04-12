@@ -1,5 +1,3 @@
-/* eslint-disable jsx-a11y/alt-text */
-/* eslint-disable import/no-unresolved */
 import Style from './Style';
 import photo from '../assets/img/rilla.jpg';
 import { useNavigate } from 'react-router-dom';

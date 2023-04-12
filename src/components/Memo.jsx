@@ -25,7 +25,7 @@ export default function Memo() {
           icon={faHouse}
           onClick={moveToHomeButton}
         />
-        <h1 className="title"> ※ 메모장 ※</h1>
+        <h1 className="title"> ※ 메모asd장 ※</h1>
         <input
           className="input-contents"
           placeholder="메모내용을 입력하세요"
